@@ -1,6 +1,6 @@
 Config = {}
 
-Config.StashWeight = 250000
+Config.StashWeight = 150000
 
 Config.BagModel = "prop_cs_heist_bag_02"
 
