@@ -1,3 +1,5 @@
+-- Needs fixed - Should only load items once when created, then never restock them - Should save the stash after loading & shouldn't restock, you should be able to take items out & put items in - Max cap 125kg
+
 local Bags = {}
 
 local function getStashId(bagId)
